@@ -1,0 +1,6 @@
+jupedsim
+pedpy
+plotly
+shapely
+numpy
+matplotlib
