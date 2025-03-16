@@ -16,6 +16,5 @@ Create a virtual environment and install dependencies:
 ### In the Cloud
 
 You can run the notebooks using:
-
-    [Google Colab](https://colab.research.google.com/github/chraibi/CrowdSummit2025)
-    [WUP Server](https://inghub.uni-wuppertal.de/jupedsim/)
+- [Google Colab](https://colab.research.google.com/github/chraibi/CrowdSummit2025) or
+- [WUP Server](https://inghub.uni-wuppertal.de/jupedsim/)
